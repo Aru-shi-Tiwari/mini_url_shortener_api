@@ -100,7 +100,7 @@ docker-compose up --build
 
 ## 🧪 Postman Collection
 
-You can test all endpoints using this [Postman Collection](.\Collections_Postman\mini_url_shortener_collection.postman_collection.json).
+You can test all endpoints using this [Postman Collection](./Collections_Postman/mini_url_shortener_collection.postman_collection.json).
 
 ## 👨‍💻 Author
 Arushi Tiwari
