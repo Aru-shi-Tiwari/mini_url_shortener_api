@@ -85,7 +85,7 @@ GET http://localhost:5000/M3xtS8
 ```json
 {
     "originalUrl": "https://example.com/some/very/long/link",
-    "clicks": 4
+    "clickCount": 9
 }
 ```
 
